@@ -8,7 +8,7 @@
 ### How to install
 
 <pre>
-git clone https://github.com/aalonsog/CDPSgram-photos.git
+git clone https://github.com/orapic/CDPSgram-photos.git
 cd CDPSgram-photos
 npm install
 </pre>
